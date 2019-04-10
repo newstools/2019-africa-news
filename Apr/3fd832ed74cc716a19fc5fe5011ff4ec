@@ -1,0 +1,49 @@
+JOHANNESBURG, South Africa, April 9, 2019/APO Group/ --
+                                                        
+                            Facebook (www.Facebook.com) is working closely with key non-profit and research partners to use artificial intelligence (AI) and big data to address large-scale social, health and infrastructure challenges in sub Saharan Africa. These efforts range from rural electrification in Tanzania to vaccinating people in remote corners of Malawi.
+
+
+
+Facebook is applying the processing muscle of its compute power, its extensive data science skills and its expertise in AI and machine learning to create the world’s most detailed and accurate maps of local populations. Facebook also partners with Columbia University’s Center for International Earth Science Information Network (CIESIN (www.CIESIN.org)) to ensure that this effort leverages the best available administrative data for all countries involved.
+
+
+
+The Boston-based Facebook team uses advanced computer vision and machine learning to combine satellite imagery from Digital Globe with public census data and other sources to create detailed population density maps of Africa. Using Facebook's machine learning capabilities, Facebook started developing population density maps to provide better tools to support connectivity efforts around the world. No Facebook data has been or will be used in the project and the census and satellite data used contain no personally identifiable information. 
+
+
+
+High-resolution satellite imagery already exists for much of the world. However, prior to Facebook’s mapping project, it would have required countless hours for volunteers to comb through millions of square miles of pictures to identify which contained a tiny town or remote village.
+
+
+
+The Facebook team used AI to solve that problem, efficiently crunching through data at a petabyte scale. For Africa alone, for example, the computer vision system examined 11.5 billion individual images to determine whether they contained a building. The team found approximately 110 million buildings in just a few days. 
+
+
+
+“Having started my career at USAID working on malaria control, I have witnessed first-hand the critical role that accurate data plays in the effectiveness of humanitarian efforts,” says Laura McGorman, a public policy manager at Facebook. “What’s exciting about projects like these that they provide an opportunity for our company to contribute to these efforts through our expertise in data and machine learning.”
+                                Using Facebook's machine learning capabilities, Facebook started developing population density maps to provide better tools to support connectivity efforts around the world
+                            
+
+
+
+In Malawi, the Missing Maps Project used these AI-powered maps to filter out the 97% of the terrain that is uninhabited. This helped to coordinate the efforts of 3,000 Red Cross volunteers in Malawi who visited roughly 100,000 houses in just three days to educate people about measles and rubella vaccines
+
+
+
+“The maps from Facebook ensure we focus our volunteers’ time and resources on the places they're most needed, improving the efficacy of our programs,” says Tyler Radford, executive director of the Humanitarian OpenStreetMap Team, which is part of the Missing Maps Project.
+
+
+
+In addition to assisting the Red Cross and Missing Maps Project in Malawi, the maps have been used by aid groups like the Bill and Melinda Gates Foundation, the World Bank, and Humanitarian OpenStreetMap. In Tanzania, Facebook’s AI-powered maps helped kick-start efforts to bring renewable electrification to rural areas.
+
+
+
+To understand which locations would benefit most from decentralized energy solutions, the Humanitarian OpenStreetMap Team collaborated with the Reiner Lemoine Institut and Integration Environment and Energy to combine Facebook’s population maps with detailed data on settlement locations and structures from OpenStreetMap.
+
+
+
+Humanitarian OpenStreetMap team personnel then travelled to villages identified as high priority and conducted surveys to understand the populations’ electricity needs. The results of these surveys were provided to agencies involved in rural electrification, helping mini-grid operators choose the most appropriate locations to begin the work.
+
+
+
+The Facebook population density maps project now aims to keep adding new continents and countries.
